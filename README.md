@@ -35,9 +35,13 @@ Yeni gelen araç en yakın alana yönlendirilir.
 
 .
 ├── CarParkPos # Pickle dosyası: Park yerlerinin koordinatları
+
 ├── video.mp4 # Otopark videosu
+
 ├── main.py # Ana Python betiği
+
 ├── README.md # Açıklama dosyası
+
 
 
 ---
